@@ -1,0 +1,1 @@
+C:\Users\lukas\OneDrive\Documents\GitHub\Rust-Projects-And-Learning\hello-cargo\target\debug\hello-cargo.exe: C:\Users\lukas\OneDrive\Documents\GitHub\Rust-Projects-And-Learning\hello-cargo\src\main.rs
