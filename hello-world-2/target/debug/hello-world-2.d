@@ -1,0 +1,1 @@
+C:\Users\lukas\OneDrive\Documents\GitHub\Rust-Projects-And-Learning\hello-world-2\target\debug\hello-world-2.exe: C:\Users\lukas\OneDrive\Documents\GitHub\Rust-Projects-And-Learning\hello-world-2\src\main.rs
