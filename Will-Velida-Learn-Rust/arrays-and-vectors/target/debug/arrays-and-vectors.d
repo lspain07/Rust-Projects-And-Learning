@@ -1,0 +1,1 @@
+C:\Users\lukas\OneDrive\Documents\GitHub\Rust-Projects-And-Learning\Will-Velida-Learn-Rust\arrays-and-vectors\target\debug\arrays-and-vectors.exe: C:\Users\lukas\OneDrive\Documents\GitHub\Rust-Projects-And-Learning\Will-Velida-Learn-Rust\arrays-and-vectors\src\main.rs
