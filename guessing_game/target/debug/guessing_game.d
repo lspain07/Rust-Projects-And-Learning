@@ -1,0 +1,1 @@
+C:\Users\lukas\OneDrive\Documents\GitHub\Rust-Projects-And-Learning\guessing_game\target\debug\guessing_game.exe: C:\Users\lukas\OneDrive\Documents\GitHub\Rust-Projects-And-Learning\guessing_game\src\main.rs
