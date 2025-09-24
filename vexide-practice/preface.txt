@@ -1,0 +1,4 @@
+This folder is meant to serve as the storage place for all the programs I write specifically using the designations
+from the Vexide rust library, which is used with Vex. The only reason I decided to separate this out is because
+of how different Rust code written using Vexide can look. Also, Vexide requires me to run Rust nightly, and none
+of the code in this folder will work without. Thanks.
